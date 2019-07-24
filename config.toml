@@ -1,0 +1,34 @@
+baseurl = "https://phonethantko.me/"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Phone Thant Ko"
+title = "Phone Thant Ko"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Example blog"
+copyright = "Copyright © 2019 Phone Thant Ko"
+logofile = "img/logo.jpg"
+faviconfile = "img/logo.jpg"
+highlightjs = true
+progressively = true
+align_left = false
+lang = "en"
+github = "phonethantko"
+email = "you@example.com"
+linkedin = "phonethantko"
+twitter = "phonethantko"
+social_banner = "img/banner.png"
+posts_navigation = true
+small_banner_logo = false

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Phone Thant Ko</title>
+    <link>https://phonethantko.me/projects/</link>
+    <description>Recent content in Projects on Phone Thant Ko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://phonethantko.me/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SIM Library Assistant</title>
+      <link>https://phonethantko.me/projects/simlibassist/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/projects/simlibassist/</guid>
+      <description>A chrome extension to reload the e-resources with proxied access. The chrome extension is available at Chrome Web Store.
+Summary This chrome extension automatically reloads the eligible resource sites with the proxied access.
+It currently supports:
+ SIM Library at http://libproxy.sim.edu.sg
+ University of London Online Library (Coming up)
+ RMIT Library (Coming up)
+  Note - The extension is for intended use by SIM students and requires SIM library account for access.</description>
+    </item>
+    
+    <item>
+      <title>Myanmar Sentiment Analysis</title>
+      <link>https://phonethantko.me/projects/mmsentiment/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/projects/mmsentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Evolutionary Music</title>
+      <link>https://phonethantko.me/projects/musivolve/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/projects/musivolve/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pytorch on Phone Thant Ko</title>
+    <link>https://phonethantko.me/tags/pytorch/</link>
+    <description>Recent content in pytorch on Phone Thant Ko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://phonethantko.me/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Myanmar Sentiment Analysis</title>
+      <link>https://phonethantko.me/projects/mmsentiment/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/projects/mmsentiment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

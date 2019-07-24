@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Phone Thant Ko</title>
+    <link>https://phonethantko.me/blog/</link>
+    <description>Recent content in Blog on Phone Thant Ko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://phonethantko.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A New Beginning</title>
+      <link>https://phonethantko.me/blog/a-new-beginning/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/blog/a-new-beginning/</guid>
+      <description>Welcome to the new blog!</description>
+    </item>
+    
+  </channel>
+</rss>
