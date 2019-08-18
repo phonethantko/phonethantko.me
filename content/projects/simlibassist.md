@@ -5,8 +5,14 @@ author: "Phone Thant Ko"
 tags: ["chrome-extension", "javascript", "library-proxy"]
 description: ""
 ---
-A chrome extension to reload the e-resources with proxied access.
-The chrome extension is available at Chrome Web Store.
+
+>A chrome extension to reload the e-resources with proxied access.
+
+## Links
+
+[Github](https://github.com/phonethantko/simlibassist) |
+[Chrome Webstore](https://chrome.google.com/webstore/detail/cfilpbencbcoaiejmdmiilahfmghmpkh/)
+
 
 ## Summary
 This chrome extension automatically reloads the eligible resource sites with the proxied access.
@@ -21,7 +27,7 @@ It currently supports:
 
 Note - The extension is for intended use by SIM students and requires SIM library account for access.
 
-![](img\simlibassist\simlibassist.gif.gif)
+![](..\..\static\img\simlibassist\simlibassist.gif.gif)
 
 ## Background
 SIM's operations with partnered universities have required students to maintain two sets of credentials for two different libraries in support of our academic pursuit.
