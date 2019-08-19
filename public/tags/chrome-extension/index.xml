@@ -17,7 +17,8 @@
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://phonethantko.me/projects/simlibassist/</guid>
-      <description>A chrome extension to reload the e-resources with proxied access. The chrome extension is available at Chrome Web Store.
+      <description>A chrome extension to reload the e-resources with proxied access.
+ Links Github | Chrome Webstore
 Summary This chrome extension automatically reloads the eligible resource sites with the proxied access.
 It currently supports:
  SIM Library at http://libproxy.sim.edu.sg

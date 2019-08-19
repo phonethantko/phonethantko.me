@@ -27,7 +27,7 @@ It currently supports:
 
 Note - The extension is for intended use by SIM students and requires SIM library account for access.
 
-![](..\..\static\img\simlibassist\simlibassist.gif.gif)
+![Alt](/img/simlibassist/simlibassist.gif.gif)
 
 ## Background
 SIM's operations with partnered universities have required students to maintain two sets of credentials for two different libraries in support of our academic pursuit.

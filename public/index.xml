@@ -26,7 +26,8 @@
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://phonethantko.me/projects/simlibassist/</guid>
-      <description>A chrome extension to reload the e-resources with proxied access. The chrome extension is available at Chrome Web Store.
+      <description>A chrome extension to reload the e-resources with proxied access.
+ Links Github | Chrome Webstore
 Summary This chrome extension automatically reloads the eligible resource sites with the proxied access.
 It currently supports:
  SIM Library at http://libproxy.sim.edu.sg
@@ -45,11 +46,65 @@ It currently supports:
     </item>
     
     <item>
+      <title>CodoSeek</title>
+      <link>https://phonethantko.me/projects/codoseek/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/projects/codoseek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interactive Evolutionary Music</title>
       <link>https://phonethantko.me/projects/musivolve/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://phonethantko.me/projects/musivolve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IntroMe</title>
+      <link>https://phonethantko.me/projects/introme/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/projects/introme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIA Reimagined</title>
+      <link>https://phonethantko.me/projects/sia-reimagined/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/projects/sia-reimagined/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIM Suite</title>
+      <link>https://phonethantko.me/projects/simsuite/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/projects/simsuite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spaceza</title>
+      <link>https://phonethantko.me/projects/spaceza/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/projects/spaceza/</guid>
+      <description>Spaceza is aimed at millennial generation to increase interest in astronomy and Space.</description>
+    </item>
+    
+    <item>
+      <title>Stappie Bird</title>
+      <link>https://phonethantko.me/projects/stappiebird/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/projects/stappiebird/</guid>
       <description></description>
     </item>
     
@@ -82,7 +137,7 @@ And, here are some blogs to perk your day up:</description>
       <guid>https://phonethantko.me/license/</guid>
       <description>You can use this page to put a license on the contents of your blog, like so:
  The MIT License (MIT)
-Copyright &amp;copy; 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
+Copyright &amp;copy; 2019 Phone Thant Kophonethantko@outlook.com
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
     </item>
     
