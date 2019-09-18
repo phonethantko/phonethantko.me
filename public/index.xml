@@ -42,7 +42,9 @@ It currently supports:
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://phonethantko.me/projects/mmsentiment/</guid>
-      <description></description>
+      <description>A research project on Myanmar sentiment analysis using deep learning models
+ Links Demo | Description | Github - Backend | Github - Frontend
+Summary Sentiment analysis in text has become highly significant in obtaining useful information across social media. While there have been ample amount of research work done for English language, languages such as Myanmar remain underappreciated for this area of research. Recent years have seen a few researchers initiating the work on Myanmar language albeit limited to using lexicon-based approaches.</description>
     </item>
     
     <item>
@@ -109,12 +111,22 @@ It currently supports:
     </item>
     
     <item>
+      <title></title>
+      <link>https://phonethantko.me/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://phonethantko.me/about/</link>
-      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://phonethantko.me/about/</guid>
-      <description>He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy. In time, he learns how to fly and carves a niche for himself as a sandwich-maker. -- </description>
+      <description>Hello! I am an aspiring software engineer, a recent graduate with a computing degree, and (still) an enthusiastic learner in machine learning and web development. I am also an avid learner of languages - I speak Burmese, English and Chinese at the moment. (Korean and Japanese on track)
+I enjoy learning new technology and use my expertise to solve problems. Beyond academics, I am also interested in photography - portraits in particular.</description>
     </item>
     
     <item>
@@ -135,7 +147,7 @@ And, here are some blogs to perk your day up:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://phonethantko.me/license/</guid>
-      <description>You can use this page to put a license on the contents of your blog, like so:
+      <description>The contents on this page, unless otherwise stated, is subjected to the following license:
  The MIT License (MIT)
 Copyright &amp;copy; 2019 Phone Thant Kophonethantko@outlook.com
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>

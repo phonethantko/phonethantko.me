@@ -60,6 +60,18 @@
   </url>
   
   <url>
+    <loc>https://phonethantko.me/tags/flask/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://phonethantko.me/tags/heroku/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://phonethantko.me/tags/python/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -73,6 +85,12 @@
   
   <url>
     <loc>https://phonethantko.me/tags/sentiment-analysis/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://phonethantko.me/tags/vue.js/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -179,8 +197,12 @@
   </url>
   
   <url>
+    <loc>https://phonethantko.me/blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://phonethantko.me/about/</loc>
-    <lastmod>2015-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>

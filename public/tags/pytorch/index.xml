@@ -17,7 +17,9 @@
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://phonethantko.me/projects/mmsentiment/</guid>
-      <description></description>
+      <description>A research project on Myanmar sentiment analysis using deep learning models
+ Links Demo | Description | Github - Backend | Github - Frontend
+Summary Sentiment analysis in text has become highly significant in obtaining useful information across social media. While there have been ample amount of research work done for English language, languages such as Myanmar remain underappreciated for this area of research. Recent years have seen a few researchers initiating the work on Myanmar language albeit limited to using lexicon-based approaches.</description>
     </item>
     
   </channel>

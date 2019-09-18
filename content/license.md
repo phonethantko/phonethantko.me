@@ -2,7 +2,7 @@
 title= "License"
 +++
 
-You can use this page to put a license on the contents of your blog, like so:
+The contents on this page, unless otherwise stated, is subjected to the following license:
 
 > The MIT License (MIT)
 >

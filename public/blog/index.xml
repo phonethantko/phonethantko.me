@@ -20,5 +20,14 @@
       <description>Welcome to the new blog!</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://phonethantko.me/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phonethantko.me/blog/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
